@@ -28,8 +28,8 @@ y_offset = rows / 2
 
 A, B = 0, 0
 
-theta_spacing = 1
-phi_spacing = 1
+theta_spacing = 4
+phi_spacing = 4
 
 chars = ".,-∼:;+!#$@"
 
