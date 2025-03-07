@@ -47,8 +47,6 @@ def text_display(letter, x_start, y_start):
     text = font.render(str(letter), True, hsv2rgb(hue, 1, 1))
     display_surface.blit(text, (x_start, y_start))
 
-
-clock = pygame.time.Clock()
 run = True
 while run:
 
