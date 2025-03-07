@@ -11,8 +11,8 @@ white = (255, 255, 255)
 black = (0,0,0)
 hue = 0
 
-WIDTH = 1980
-HEIGHT = 1080
+WIDTH = 900
+HEIGHT = 700
 
 x_start, y_start = 0, 0
 
@@ -28,8 +28,8 @@ y_offset = rows / 2
 
 A, B = 0, 0
 
-theta_spacing = 4
-phi_spacing = 4
+theta_spacing = 8
+phi_spacing = 8
 
 chars = ".,-∼:;+!#$@"
 
